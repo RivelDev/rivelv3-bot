@@ -5,6 +5,7 @@ RivelV3 - это Анти-АФК бот с открытым исходным к�
 ОС: Windows 10+
 Язык: Python
 Обратная связь: idearivel (Discord)
+Ключ: HsDUre711bC
 
 
 
@@ -19,3 +20,4 @@ I, the author of the program, do not collect any confidential user data using th
 OS: Windows 10+
 Language: Python
 Contacts: idearivel (Discord)
+Key: HsDUre711bC
